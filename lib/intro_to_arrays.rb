@@ -1,9 +1,9 @@
 def instantiate_new_array
-  return []
+  array = []
 end
 
 def array_with_two_elements
-  return [element1, element2]
+  array = [element1, element2]
 end
 
 def first_element(arg)
